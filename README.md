@@ -29,6 +29,8 @@ Font Awesome - Icons
 
 GitHub REST API - User data
 
-## 📸 Preview
+# 📸 Preview
+
+![GitHub User Finder](Github_profile_card.gif)
 
 ![GitHub User Finder]()
