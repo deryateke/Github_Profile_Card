@@ -33,4 +33,4 @@ GitHub REST API - User data
 
 ![GitHub User Finder](Github_profile_card.gif)
 
-![GitHub User Finder]()
+
