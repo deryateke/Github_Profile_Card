@@ -4,7 +4,7 @@
 
 A simple web application that allows you to search for GitHub users and view their profile information and repositories.
 
-# # Features
+#  Features
 Search for any GitHub user by username
 
 Display user profile (avatar, name, bio)
