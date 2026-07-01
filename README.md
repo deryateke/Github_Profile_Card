@@ -1,10 +1,10 @@
 
 
- # GitHub User Finder 🔍
+ ## GitHub User Finder 🔍
 
 A simple web application that allows you to search for GitHub users and view their profile information and repositories.
 
-🚀 # Features
+# # Features
 Search for any GitHub user by username
 
 Display user profile (avatar, name, bio)
@@ -16,7 +16,7 @@ List the user's most recent repositories with links
 Error handling for users not found
 
 
-🛠️ # Technologies Used
+ ## Technologies Used
 HTML5
 
 CSS3
