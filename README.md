@@ -28,3 +28,7 @@ Axios - HTTP client for API requests
 Font Awesome - Icons
 
 GitHub REST API - User data
+
+## 📸 Preview
+
+![GitHub User Finder]()
